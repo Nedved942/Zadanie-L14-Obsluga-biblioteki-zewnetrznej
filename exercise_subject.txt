@@ -10,7 +10,7 @@ W przypadku nie podania daty, aplikacja przyjmie za poszukiwaną datę następny
         Nie będzie padać (dla wyniku równego 0.0)
         Nie wiem (gdy wyniku z jakiegoś powodu nie ma lub wartość jest ujemna)
 
-Wyniki zapytań powinny być zapisywane do pliku. Jeżeli szukana data znajduje sie już w pliku, nie wykonuj zapytania do
+Wyniki zapytań powinny być zapisywane do pliku. Jeżeli szukana data znajduje się już w pliku, nie wykonuj zapytania do
 API, tylko zwróć wynik z pliku.
 
 URL do API:
